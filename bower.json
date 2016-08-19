@@ -1,0 +1,11 @@
+{
+  "name": "first",
+  "description": "First react project from scratch.",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "MIT",
+
+  "dependencies": {
+
+  }
+}
